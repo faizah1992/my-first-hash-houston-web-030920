@@ -1,6 +1,7 @@
 def my_hash
 my_hash = Hash.new 
 my_hash[:name] = "Faizah"
+my_hash
 end 
 
 
