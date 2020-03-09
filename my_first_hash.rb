@@ -1,6 +1,6 @@
 def my_hash
-your_hash = {:name => "Faizah"}
-end
+your_hash.new 
+end 
 
 
 def shipping_manifest
