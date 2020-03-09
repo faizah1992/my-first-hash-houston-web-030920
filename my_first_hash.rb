@@ -1,5 +1,5 @@
 def my_hash
-my_hash.new
+your_hash.new = {:name => "Faizah"}
 end
 
 
